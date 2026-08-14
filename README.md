@@ -1,4 +1,4 @@
-# Beyond Overall Diagnosis: A Longitudinal Multi-Domain Latent Structure Model for Domain-specific Parkinson's Disease Progression
+# Beyond Overall Diagnosis: A Longitudinal Multi-Domain Latent Structure Model for Domain-Specific Parkinson's Disease Progression
 ### Zijian Ye, Yuanjia Wang, Yu Gu and Kai Kang* ###
 
 
